@@ -5,3 +5,4 @@
 - [Bartender, drinks!](https://www.codewars.com/kata/l1-bartender-drinks/train/javascript)
 - [Multiply](https://www.codewars.com/kata/multiply/train/javascript)
 - [Removing Elements](https://www.codewars.com/kata/removing-elements/train/javascript)
+- [Convert a Number to a String!](https://www.codewars.com/kata/convert-a-number-to-a-string/train/javascript)
