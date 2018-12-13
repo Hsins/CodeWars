@@ -4,3 +4,4 @@
 - [Grasshopper - Function syntax debugging](https://www.codewars.com/kata/grasshopper-function-syntax-debugging/train/javascript)
 - [Bartender, drinks!](https://www.codewars.com/kata/l1-bartender-drinks/train/javascript)
 - [Multiply](https://www.codewars.com/kata/multiply/train/javascript)
+- [Removing Elements](https://www.codewars.com/kata/removing-elements/train/javascript)
