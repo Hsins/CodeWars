@@ -6,3 +6,4 @@
 - [Multiply](https://www.codewars.com/kata/multiply/train/javascript)
 - [Removing Elements](https://www.codewars.com/kata/removing-elements/train/javascript)
 - [Convert a Number to a String!](https://www.codewars.com/kata/convert-a-number-to-a-string/train/javascript)
+- [Twice as old](https://www.codewars.com/kata/twice-as-old/train/javascript)
