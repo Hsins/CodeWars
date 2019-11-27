@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/6AdzAKM.png">
+<p align="left">
+  <img src="https://www.codewars.com/users/Hsins/badges/micro">
 </p>
