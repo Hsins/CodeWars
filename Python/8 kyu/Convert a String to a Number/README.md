@@ -1,0 +1,34 @@
+# Convert a String to a Number
+
+## Information
+
+- KYU: 8
+- Link: [Convert a String to a Number](https://www.codewars.com/kata/convert-a-string-to-a-number/train/python)
+
+## Description:
+
+We need a function that can transform a string into a number. What ways of achieving this do you know?
+
+**Note**: Don't worry, all inputs will be strings, and every string is a perfectly valid representation of an integral number.
+
+**Examples**:
+
+```
+stringToNumber("1234") == 1234
+stringToNumber("605" ) == 605
+stringToNumber("1405") == 1405
+stringToNumber("-7"  ) == -7
+```
+
+## My Solution
+
+```python
+def string_to_number(s):
+    return int(s)
+```
+
+## Lambda Solutions
+
+```python
+string_to_number = lambda s: int(s)
+```
