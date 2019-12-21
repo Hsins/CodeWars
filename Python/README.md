@@ -73,6 +73,7 @@
 - [Double Char](./8%20kyu/Double%20Char)
 - [Draw Stairs](./8%20kyu/Draw%20Stairs)
 - [Enumerable Magic #25 - Take the First N Elements](./8%20kyu/Enumerable%20Magic%20%2325%20-%20Take%20the%20First%20N%20Elements)
+- [Even or Odd](./8%20kyu/Even%20or%20Odd)
 - [Find the First non-consecutive Number](./8%20kyu/Find%20the%20First%20non-consecutive%20Number)
 - [Find the Integral](./8%20kyu/Find%20the%20Integral)
 - [Get Character from ASCII Value](./8%20kyu/Get%20character%20from%20ASCII%20Value)
