@@ -31,6 +31,10 @@
 
 <details>
 <summary><b>5 kyu</b></summary>
+
+- [Calculating with Functions](./5%20kyu/Calculating%20with%20Functions)
+- [Regex Password Validation](./5%20kyu/Regex%20Password%20Validation)
+
 </details>
 
 <details>
