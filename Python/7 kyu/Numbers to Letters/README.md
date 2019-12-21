@@ -19,7 +19,7 @@ def switcher(arr):
     return ''.join(letters[::-1][int(idx) - 1] for idx in arr)
 ```
 
-## Clever Solution
+## Clever Solutions
 
 ```python
 import string

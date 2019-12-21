@@ -20,7 +20,7 @@ def last(x):
     return sorted(x.split(' '), key=lambda word: word[-1])
 ```
 
-## Clever Solution
+## Clever Solutions
 
 ```python
 def last(s):
