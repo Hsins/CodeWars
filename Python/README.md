@@ -42,6 +42,7 @@
 
 - [Meeting](./6%20kyu/Meeting)
 - [Schrödinger's Boolean](./6%20kyu/Schrödinger's%20Boolean)
+- [VaccineNation](./6%20kyu/VaccineNation)
 
 </details>
 
