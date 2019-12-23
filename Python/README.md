@@ -86,6 +86,7 @@
 - [Grasshopper - Terminal Game Move Function](./8%20kyu/Grasshopper%20-%20Terminal%20Game%20Move%20Function)
 - [Greek Sort](./8%20kyu/Greek%20Sort)
 - [I Love You, A Little, A Lot, Passionately... Not At All](./8%20kyu/I%20Love%20You%2C%20A%20Little%2C%20A%20Lot%2C%20Passionately...%20Not%20At%20All)
+- [Is n Divisible By x And y?](./8%20kyu/Is%20n%20Divisible%20By%20x%20And%20y%3F)
 - [Keep Hydrated](./8%20kyu/Keep%20Hydrated)
 - [Keep Up the Hoop](./8%20kyu/Keep%20Up%20the%20Hoop)
 - [Lost Without a Map](./8%20kyu/Lost%20Without%20a%20Map)
@@ -109,7 +110,5 @@
 - [Well of Ideas](./8%20kyu/Well%20of%20Ideas)
 - [What is Between?](./8%20kyu/What%20is%20Between%3F)
 - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](./8%20kyu/altERnaTIng%20cAsE%20<%3D>%20ALTerNAtiNG%20CaSe)
-
-
 
 </details>
