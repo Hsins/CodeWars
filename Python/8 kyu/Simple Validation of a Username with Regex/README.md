@@ -1,9 +1,9 @@
-# Simple Validation Of A Username With Regex
+# Simple Validation of a Username with Regex
 
 ## Information
 
 - KYU: 8
-- Link: [Simple Validation Of A Username With Regex](https://www.codewars.com/kata/simple-validation-of-a-username-with-regex/train/python)
+- Link: [Simple Validation of a Username with Regex](https://www.codewars.com/kata/simple-validation-of-a-username-with-regex/train/python)
 
 ## Description:
 
