@@ -34,6 +34,16 @@ def validate_usr(username):
     return bool(re.match("^[a-z0-9_]{4,16}$", username))
 ```
 
+## Clever Solutoins
+
+```python
+import re
+
+
+def validate_usr(un):
+    return re.match('^[a-z0-9_]{4,16}$', un) != None
+```
+
 ## Lambda Solutions
 
 ```python
