@@ -99,7 +99,7 @@
 - [Remove First and Last Character](./8%20kyu/Remove%20First%20and%20Last%20Character)
 - [Remove String Spaces](./8%20kyu/Remove%20String%20Spaces)
 - [Reversed Strings](./8%20kyu/Reversed%20Strings)
-- [Simple Validation Of A Username With Regex](./8%20kyu/Simple%20Validation%20Of%20A%20Username%20With%20Regex)
+- [Simple Validation of a Username with Regex](./8%20kyu/Simple%20Validation%20of%20a%20Username%20with%20Regex)
 - [Sort and Star](./8%20kyu/Sort%20and%20Star)
 - [Sum Mixed Array](./8%20kyu/Sum%20Mixed%20Array)
 - [Sum The Strings](./8%20kyu/Sum%20The%20Strings)
