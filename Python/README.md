@@ -52,6 +52,7 @@
 <summary><b>7 kyu</b></summary>
 
 - [Isograms](./7%20kyu/Isograms)
+- [Maximum Multiple](./7%20kyu/Maximum%20Multiple)
 - [Numbers to Letters](./7%20kyu/Numbers%20to%20Letters)
 - [Santa's Naughty List](./7%20kyu/Santa's%20Naughty%20List)
 - [Sort by Last Char](./7%20kyu/Sort%20by%20Last%20Char)
