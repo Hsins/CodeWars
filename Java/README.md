@@ -1,7 +1,7 @@
 <div align="center">
 
 # Java
-<img src="https://user-images.githubusercontent.com/26391143/71434103-e2c02700-271d-11ea-9cb3-49a1e9f8d250.png" height="200">
+<img src="https://user-images.githubusercontent.com/26391143/71434121-f8355100-271d-11ea-9aeb-e0a5b0559d00.png" height="200">
 
 </div>
 
