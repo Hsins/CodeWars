@@ -41,6 +41,7 @@
 <details>
 <summary><b>6 kyu</b></summary>
 
+- [Backspaces in String](./6%20kyu/Backspaces%20in%20String)
 - [Meeting](./6%20kyu/Meeting)
 - [Schrödinger's Boolean](./6%20kyu/Schrödinger's%20Boolean)
 - [The Lamp: Revisited](./6%20kyu/The%20Lamp:%20Revisited)
