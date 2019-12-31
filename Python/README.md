@@ -45,6 +45,7 @@
 - [Meeting](./6%20kyu/Meeting)
 - [Schrödinger's Boolean](./6%20kyu/Schrödinger's%20Boolean)
 - [The Lamp: Revisited](./6%20kyu/The%20Lamp:%20Revisited)
+- [Unique In Order](./6%20kyu/Unique%20In%20Order)
 - [VaccineNation](./6%20kyu/VaccineNation)
 
 </details>
