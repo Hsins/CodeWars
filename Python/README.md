@@ -53,6 +53,7 @@
 <summary><b>7 kyu</b></summary>
 
 - [Alphabetical Addition](./7%20kyu/Alphabetical%20Addition)
+- [Descending Order](./7%20kyu/Descending%20Order)
 - [Isograms](./7%20kyu/Isograms)
 - [Maximum Multiple](./7%20kyu/Maximum%20Multiple)
 - [Numbers to Letters](./7%20kyu/Numbers%20to%20Letters)
