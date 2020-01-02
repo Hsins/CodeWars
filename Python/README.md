@@ -105,6 +105,7 @@
 - [Merging Sorted Integer Arrays (Without Duplicates)](./8%20kyu/Merging%20Sorted%20Integer%20Arrays%20(Without%20Duplicates))
 - [Multiple of Index](./8%20kyu/Multiple%20of%20Index)
 - [My Head is At the Wrong End](./8%20kyu/My%20Head%20is%20At%20the%20Wrong%20End)
+- [Playing with Cubes II](./8%20kyu/Playing%20with%20Cubes%20II)
 - [Regexp Basics - Is It a Digit?](./8%20kyu/Regexp%20Basics%20-%20Is%20It%20a%20Digit%3F)
 - [Remove First and Last Character](./8%20kyu/Remove%20First%20and%20Last%20Character)
 - [Remove String Spaces](./8%20kyu/Remove%20String%20Spaces)
