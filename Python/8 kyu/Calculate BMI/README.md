@@ -19,7 +19,7 @@ Write function bmi that calculates body mass index (bmi = weight / height ^ 2).
 ```python
 def bmi(weight, height):
     bmi = weight / (height**2)
-    
+
     if bmi <= 18.5:
         return "Underweight"
     elif bmi <= 25:
