@@ -49,6 +49,7 @@
 - [The Lamp: Revisited](./6%20kyu/The%20Lamp:%20Revisited)
 - [Unique In Order](./6%20kyu/Unique%20In%20Order)
 - [VaccineNation](./6%20kyu/VaccineNation)
+- [Your Order, Please](./6%20kyu/Your%20Order%2C%20Please)
 
 </details>
 
