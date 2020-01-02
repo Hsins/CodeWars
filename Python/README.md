@@ -60,6 +60,7 @@
 - [Numbers to Letters](./7%20kyu/Numbers%20to%20Letters)
 - [Santa's Naughty List](./7%20kyu/Santa's%20Naughty%20List)
 - [Sort by Last Char](./7%20kyu/Sort%20by%20Last%20Char)
+- [Square Every Digit](./7%20kyu/Square%20Every%20Digit)
 - [Summing a Number's Digits](./7%20kyu/Summing%20a%20Number's%20Digits)
 
 </details>
