@@ -57,6 +57,7 @@
 
 - [Alphabetical Addition](./7%20kyu/Alphabetical%20Addition)
 - [Descending Order](./7%20kyu/Descending%20Order)
+- [Find All Occurrences of An Element in An Array](./7%20kyu/Find%20All%20Occurrences%20of%20An%20Element%20in%20An%20Array)
 - [Isograms](./7%20kyu/Isograms)
 - [Maximum Multiple](./7%20kyu/Maximum%20Multiple)
 - [Numbers to Letters](./7%20kyu/Numbers%20to%20Letters)
