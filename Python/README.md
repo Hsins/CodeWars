@@ -108,6 +108,7 @@
 - [Reversed Strings](./8%20kyu/Reversed%20Strings)
 - [Simple Validation of a Username with Regex](./8%20kyu/Simple%20Validation%20of%20a%20Username%20with%20Regex)
 - [Sort and Star](./8%20kyu/Sort%20and%20Star)
+- [Squash the Bugs](./8%20kyu/Squash%20the%20Bugs)
 - [Sum Mixed Array](./8%20kyu/Sum%20Mixed%20Array)
 - [Sum The Strings](./8%20kyu/Sum%20The%20Strings)
 - [Surface Area and Volume of a Box](./8%20kyu/Surface%20Area%20and%20Volume%20of%20a%20Box)
