@@ -5,7 +5,7 @@
 
 
 def first_non_consecutive(arr):
-    for idx, num in enumerate(arr): 
-        if num - arr[idx-1] != 1 and idx: 
+    for idx, num in enumerate(arr):
+        if num - arr[idx - 1] != 1 and idx:
             return(num)
     return None

@@ -18,14 +18,14 @@ Your goal in this kata is to create complete the `mouth_size` method this method
 ## My Solution
 
 ```python
-def mouth_size(animal): 
+def mouth_size(animal):
     return "small" if animal.upper() == "ALLIGATOR" else "wide"
 ```
 
 ## Clever Solutions
 
 ```python
-def mouth_size(animal): 
+def mouth_size(animal):
   return 'wide' if animal.lower() != 'alligator' else 'small'
 ```
 

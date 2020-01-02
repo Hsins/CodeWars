@@ -3,7 +3,7 @@
 ## Information
 
 - KYU: 8
-- Link: [Do I get a bonus?](https://www.codewars.com/kata/56f6ad906b88de513f000d96/)
+- Link: [Do I get a bonus?](https://www.codewars.com/kata/do-i-get-a-bonus/train/python)
 
 ## Description:
 

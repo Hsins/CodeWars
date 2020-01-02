@@ -15,11 +15,6 @@ Return your answer as a number.
 
 ```python
 def sum_mix(arr):
-    return sum(list(int(num) for num in arr))
-```
-
-```python
-def sum_mix(arr):
     return sum([int(num) for num in arr])
 ```
 

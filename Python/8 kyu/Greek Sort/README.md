@@ -18,13 +18,13 @@ The greek alphabet is preloded for you as `greek_alphabet`:
 
 ```
 greek_alphabet = (
-    'alpha', 'beta', 'gamma', 'delta', 'epsilon', 'zeta', 
-    'eta', 'theta', 'iota', 'kappa', 'lambda', 'mu', 
+    'alpha', 'beta', 'gamma', 'delta', 'epsilon', 'zeta',
+    'eta', 'theta', 'iota', 'kappa', 'lambda', 'mu',
     'nu', 'xi', 'omicron', 'pi', 'rho', 'sigma',
     'tau', 'upsilon', 'phi', 'chi', 'psi', 'omega')
 ```
 
-Examples:
+**Examples**:
 
 ```
 greek_comparator('alpha', 'beta')   <  0
@@ -35,14 +35,24 @@ greek_comparator('upsilon', 'rho')  >  0
 ## My Solution
 
 ```python
-def two_sort(array):
-    word = sorted(array)[0]
-    return "***".join(word)
+def greek_comparator(lhs, rhs):
+    greek_alphabet = (
+        'alpha', 'beta', 'gamma', 'delta', 'epsilon', 'zeta',
+        'eta', 'theta', 'iota', 'kappa', 'lambda', 'mu',
+        'nu', 'xi', 'omicron', 'pi', 'rho', 'sigma',
+        'tau', 'upsilon', 'phi', 'chi', 'psi', 'omega')
+    return greek_alphabet.index(lhs) - greek_alphabet.index(rhs)
 ```
 
-## Clever Solutions
+## Labmda Solutions
 
 ```python
-def two_sort(array):
-    return '***'.join(min(array))
+greek_alphabet = (
+    'alpha', 'beta', 'gamma', 'delta', 'epsilon', 'zeta',
+    'eta', 'theta', 'iota', 'kappa', 'lambda', 'mu',
+    'nu', 'xi', 'omicron', 'pi', 'rho', 'sigma',
+    'tau', 'upsilon', 'phi', 'chi', 'psi', 'omega')
+
+def greek_comparator(lhs, rhs):
+    return greek_alphabet.index(lhs) - greek_alphabet.index(rhs)
 ```

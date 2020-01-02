@@ -3,7 +3,7 @@
 ## Information
 
 - KYU: 8
-- Link: [Even or Odd](https://www.codewars.com/kata/5-without-numbers/train/python)
+- Link: [Even or Odd](https://www.codewars.com/kata/even-or-odd/train/python)
 
 ## Description:
 

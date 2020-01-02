@@ -12,7 +12,7 @@ Write a function that merges two sorted arrays into a single one. The arrays onl
 ## My Solution
 
 ```python
-def merge_arrays(first, second): 
+def merge_arrays(first, second):
     return sorted(set(first + second))
 ```
 

@@ -35,15 +35,6 @@ def find_it(seq):
 
 由於 XOR 運算滿足結合律與交換律，最後得到的結果便是落單（出現次數為奇數次）的數字。
 
-## Clever Solutions
-
-```python
-import operator import xor
-
-def find_it(seq):
-    return reduce(xor, seq)
-```
-
 ## References
 
 - [Wikipedia | Exclusive or](https://www.wikiwand.com/en/Exclusive_or)

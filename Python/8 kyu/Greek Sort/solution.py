@@ -1,9 +1,13 @@
-# [8 kyu] Double Char
+# [8 kyu] Greek Sort
 #
 # Author:   Hsins
 # Date:     2019/11/28
 
 
-def two_sort(array):
-    word = sorted(array)[0]
-    return "".join(c + '***' for c in word)[0:-3]
+def greek_comparator(lhs, rhs):
+    greek_alphabet = (
+        'alpha', 'beta', 'gamma', 'delta', 'epsilon', 'zeta',
+        'eta', 'theta', 'iota', 'kappa', 'lambda', 'mu',
+        'nu', 'xi', 'omicron', 'pi', 'rho', 'sigma',
+        'tau', 'upsilon', 'phi', 'chi', 'psi', 'omega')
+    return greek_alphabet.index(lhs) - greek_alphabet.index(rhs)

@@ -5,4 +5,4 @@
 
 
 def sum_mix(arr):
-    return sum(list(int(num) for num in arr))
+    return sum([int(num) for num in arr])

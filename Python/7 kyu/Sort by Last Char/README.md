@@ -3,7 +3,7 @@
 ## Information
 
 - KYU: 7
-- Link: [Sort by Last Char](https://www.codewars.com/kata/find-the-integral/train/python)
+- Link: [Sort by Last Char](https://www.codewars.com/kata/sort-by-last-char/train/python)
 
 ## Description:
 

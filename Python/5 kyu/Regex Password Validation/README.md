@@ -19,7 +19,9 @@ Valid passwords will only be alphanumeric characters.
 ## My Solution
 
 ```python
-regex = """
+regex = "^(?=.*?[A-Z])(?=.*?[a-z])(?=.*?[0-9])[A-Za-z0-9]{6,}$"
+
+"""
 ^               # start letter
 (?=.*?[A-Z])    # at least one uppercase letter
 (?=.*?[a-z])    # at least one lowercase letter

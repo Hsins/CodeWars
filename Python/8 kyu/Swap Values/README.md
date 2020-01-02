@@ -3,7 +3,7 @@
 ## Information
 
 - KYU: 8
-- Link: [Swap Values](https://www.codewars.com/kata/5-without-numbers/train/python)
+- Link: [Swap Values](https://www.codewars.com/kata/swap-values/train/python)
 
 ## Description:
 

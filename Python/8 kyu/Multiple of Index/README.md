@@ -28,7 +28,7 @@ def multiple_of_index(arr):
             continue
         if num % idx == 0:
             result.append(num)
-    
+
     return result
 ```
 

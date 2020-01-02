@@ -48,7 +48,7 @@ def eight(func = None):
 def nine(func = None):
     return func(9) if func else 9
 
-def plus(y): 
+def plus(y):
     return lambda x: x + y
 def minus(y):
     return lambda x: x - y
