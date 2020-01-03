@@ -45,6 +45,7 @@
 - [Find The Parity Outlier](./6%20kyu/Find%20The%20Parity%20Outlier)
 - [Find the Odd Int](./6%20kyu/Find%20the%20Odd%20Int)
 - [Is Integer Array](./6%20kyu/Is%20Integer%20Array)
+- [Look and Say Numbers](./6%20kyu/Look%20and%20Say%20Numbers)
 - [Meeting](./6%20kyu/Meeting)
 - [Schrödinger's Boolean](./6%20kyu/Schrödinger's%20Boolean)
 - [The Lamp: Revisited](./6%20kyu/The%20Lamp:%20Revisited)
