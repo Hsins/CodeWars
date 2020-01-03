@@ -42,4 +42,7 @@
 
 <details>
 <summary><b>8 kyu</b></summary>
+  
+- [Remove String Spaces](./8%20kyu/Remove%20String%20Spaces)
+
 </details>
