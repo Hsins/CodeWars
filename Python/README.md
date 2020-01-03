@@ -44,6 +44,7 @@
 - [Backspaces in String](./6%20kyu/Backspaces%20in%20String)
 - [Find The Parity Outlier](./6%20kyu/Find%20The%20Parity%20Outlier)
 - [Find the Odd Int](./6%20kyu/Find%20the%20Odd%20Int)
+- [Is Integer Array](./6%20kyu/Is%20Integer%20Array)
 - [Meeting](./6%20kyu/Meeting)
 - [Schrödinger's Boolean](./6%20kyu/Schrödinger's%20Boolean)
 - [The Lamp: Revisited](./6%20kyu/The%20Lamp:%20Revisited)
