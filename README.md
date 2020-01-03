@@ -1,3 +1,10 @@
+<div align="right">
+  <img src="https://www.codewars.com/users/Hsins/badges/micro">
+  <a href="https://github.com/Hsins/CodeWars/blob/master/LICENSE" alt="License">
+    <img src="https://img.shields.io/github/license/Hsins/CodeWars.svg" />
+  </a>
+</div>
+
 <div align="center">
 
 # CodeWars
@@ -5,7 +12,22 @@
 
 </div>
 
+## Repository Structure
 
-<p align="left">
-  <img src="https://www.codewars.com/users/Hsins/badges/micro">
-</p>
+There's are folders for each kata nested in its own kyu and classified by programming languages.
+
+```
+├── Python
+│   ├── ...
+│   ├── 5 kyu
+│   │   ├── Calculating with Functions
+│   │   │   ├── README.md
+│   │   │   ├── solution.py
+│   │   │   └── test.py
+│   │   └── ...
+```
+
+
+## License
+
+Licensed under the MIT License, Copyright © 2017-present Hsins.
