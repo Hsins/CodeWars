@@ -1,9 +1,9 @@
-# Squash the bugs
+# Squash the Bugs
 
 ## Information
 
 - KYU: 8
-- Link: [Squash the bugs](https://www.codewars.com/kata/squash-the-bugs/train/javascript)
+- Link: [Squash the Bugs](https://www.codewars.com/kata/squash-the-bugs/train/javascript)
 
 ## Description:
 
