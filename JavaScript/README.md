@@ -44,5 +44,6 @@
 <summary><b>8 kyu</b></summary>
   
 - [Remove String Spaces](./8%20kyu/Remove%20String%20Spaces)
+- [Squash the Bugs](./8%20kyu/Squash%20the%20Bugs)
 
 </details>
