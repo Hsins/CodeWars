@@ -12,6 +12,12 @@ Simple, remove the spaces from the string, then return the resultant string.
 ## My Solution
 
 ```javascript
+function noSpace(string) {
+  return string.replace(/\s/g, '');
+}
+```
+
+```javascript
 const noSpace = string => string.replace(/\s/g, '');
 ```
 
