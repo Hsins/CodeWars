@@ -126,6 +126,7 @@
 - [The Wide-Mouthed Frog!](./8%20kyu/The%20Wide-Mouthed%20Frog!)
 - [The if function](./8%20kyu/The%20if%20function)
 - [Third Angle of a Triangle](./8%20kyu/Third%20Angle%20of%20a%20Triangle)
+- [Tip Calculator](./8%20kyu/Tip%20Calculator)
 - [Well of Ideas](./8%20kyu/Well%20of%20Ideas)
 - [What is Between?](./8%20kyu/What%20is%20Between%3F)
 - [altERnaTIng cAsE <=> ALTerNAtiNG CaSe](./8%20kyu/altERnaTIng%20cAsE%20<%3D>%20ALTerNAtiNG%20CaSe)
