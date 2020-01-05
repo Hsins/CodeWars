@@ -5,5 +5,5 @@
 from __future__ import division
 
 
-def divide_numbers(x,y):
+def divide_numbers(x, y):
     return x / y
