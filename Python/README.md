@@ -96,6 +96,7 @@
 - [Expressions Matter](./8%20kyu/Expressions%20Matter)
 - [Find the First non-consecutive Number](./8%20kyu/Find%20the%20First%20non-consecutive%20Number)
 - [Find the Integral](./8%20kyu/Find%20the%20Integral)
+- [Get Nth Even Number](./8%20kyu/Get%20Nth%20Even%20Number)
 - [Get Character from ASCII Value](./8%20kyu/Get%20character%20from%20ASCII%20Value)
 - [Grasshopper - Messi Goals Function](./8%20kyu/Grasshopper%20-%20Messi%20Goals%20Function)
 - [Grasshopper - Personalized Message](./8%20kyu/Grasshopper%20-%20Personalized%20Message)
