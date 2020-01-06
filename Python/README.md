@@ -87,6 +87,7 @@
 - [Convert a String to a Number](./8%20kyu/Convert%20a%20String%20to%20a%20Number)
 - [Convert a String to an Array](./8%20kyu/Convert%20a%20String%20to%20an%20Array)
 - [Count the Monkeys](./8%20kyu/Count%20the%20Monkeys)
+- [Counting Sheep](./8%20kyu/Counting%20Sheep)
 - [Do I Get a Bonus?](./8%20kyu/Do%20I%20get%20a%20bonus%3F)
 - [Double Char](./8%20kyu/Double%20Char)
 - [Draw Stairs](./8%20kyu/Draw%20Stairs)
