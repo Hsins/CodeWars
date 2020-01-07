@@ -37,4 +37,7 @@
 
 <details>
 <summary><b>8 kyu</b></summary>
+
+- [Century From Year](./8%20kyu/Century%20From%20Year)
+
 </details>
