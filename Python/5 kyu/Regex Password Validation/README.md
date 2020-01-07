@@ -34,4 +34,4 @@ $               # end letter
 
 ## References
 
-- [stackoverflow | Regex Password Validation - Codewars(https://stackoverflow.com/questions/29465214/regex-password-validation-codewars)
+- [stackoverflow | Regex Password Validation - Codewars](https://stackoverflow.com/questions/29465214/regex-password-validation-codewars)
