@@ -10,7 +10,7 @@
   <img src="https://user-images.githubusercontent.com/26391143/70629907-a7c1ec00-1c65-11ea-86e6-183f4f48ff4a.png" height="200">
   <p>
     <a href="https://www.codewars.com/users/Hsins" alt="License">
-      <img src="https://www.codewars.com/users/Hsins/badges/micro" />
+      <img src="https://www.codewars.com/users/Hsins/badges/small" />
     </a>
   </p>
 </div>
