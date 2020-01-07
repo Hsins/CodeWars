@@ -42,7 +42,8 @@
 
 <details>
 <summary><b>8 kyu</b></summary>
-  
+
+- [Century From Year](./8%20kyu/Century%20From%20Year)
 - [Remove String Spaces](./8%20kyu/Remove%20String%20Spaces)
 - [Squash the Bugs](./8%20kyu/Squash%20the%20Bugs)
 
