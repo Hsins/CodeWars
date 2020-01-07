@@ -51,4 +51,4 @@ const century = year => (year + 99) / 100 | 0;
 
 ## References
 
-- [stackoverflow | ](https://stackoverflow.com/questions/7487977/using-bitwise-or-0-to-floor-a-number)
+- [stackoverflow | Using Bitwise OR 0 to Floor a Number](https://stackoverflow.com/questions/7487977/using-bitwise-or-0-to-floor-a-number)
