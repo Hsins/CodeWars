@@ -34,6 +34,7 @@
 <summary><b>5 kyu</b></summary>
 
 - [Calculating with Functions](./5%20kyu/Calculating%20with%20Functions)
+- [Extract the Domain Name From a URL](./5%20kyu/Extract%20the%20Domain%20Name%20From%20a%20URL)
 - [Regex Password Validation](./5%20kyu/Regex%20Password%20Validation)
 
 </details>
