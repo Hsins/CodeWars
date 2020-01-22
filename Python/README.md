@@ -82,6 +82,7 @@
 - [A Wolf in Sheep's Clothing](./8%20kyu/A%20Wolf%20in%20Sheep's%20Clothing)
 - [Alan Partridge II - Apple Turnover](./8%20kyu/Alan%20Partridge%20II%20-%20Apple%20Turnover)
 - [Area of a Square](./8%20kyu/Area%20of%20a%20Square)
+- [Array Plus Array](./8%20kyu/Array%20Plus%20Array)
 - [Calculate BMI](./8%20kyu/Calculate%20BMI)
 - [Century From Year](./8%20kyu/Century%20From%20Year)
 - [Conor McGregor vs George Saint Pierre](./8%20kyu/Conor%20McGregor%20vs%20George%20Saint%20Pierre)
